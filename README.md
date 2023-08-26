@@ -1,3 +1,1 @@
-"# bordir_app" 
-#development
-# development
+Aplikasi marketplace penjualan produk wayang. Sistem aplikasi terdiri dari role user sebagai pengunjung atau pelanggan dan admin panel untuk mengatur semua data aplikasi. Selain itu, terdapat fitur raja ongkir dan telah terintegrasi dengan xendit payment gateway sebagai metode pembayaran.
